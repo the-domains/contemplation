@@ -1,0 +1,28 @@
+name: contemplation
+favicon: null
+layout_spectrum: 0.21146548073738813
+typography_spectrum: 0.7174712994601578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.010928047122433782
+  lightness: 0.18043330241926014
+  saturation: 0.9742048580665141
+  rhythmicContrast: 0.8285326061304659
+purpose: []
